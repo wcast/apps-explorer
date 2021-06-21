@@ -1,0 +1,21 @@
+{
+    "name": "wcast/apps-explorer",
+    "description": "Explorador de Aplicações Laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rogério Gomes",
+            "email": "rogerio.wcast@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",    "require": {},
+    "autoload": {
+        "classmap": [
+
+        ],
+        "psr-4": {
+            "WCast\\Apps\\": "src/"
+        }
+    }
+}
